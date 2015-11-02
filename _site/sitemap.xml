@@ -18,7 +18,7 @@
     
     
     <url>
-        <loc>https://panicbutton.io/about.html</loc>
+        <loc>https://panicbutton.io/help.html</loc>
     </url>
     
     
@@ -26,118 +26,8 @@
     
     
     <url>
-        <loc>https://panicbutton.io/accessibility.html</loc>
+        <loc>https://panicbutton.io/about.html</loc>
     </url>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
@@ -152,15 +42,7 @@
     
     
     <url>
-        <loc>https://panicbutton.io/help-page.html</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://panicbutton.io/help.html</loc>
+        <loc>https://panicbutton.io/accessibility.html</loc>
     </url>
     
     
@@ -175,6 +57,8 @@
     
     
     
+    
+    
     <url>
         <loc>https://panicbutton.io/pact.html</loc>
     </url>
@@ -184,10 +68,126 @@
     
     
     <url>
-        <loc>https://panicbutton.io/privacy.html</loc>
+        <loc>https://panicbutton.io/help-page.html</loc>
     </url>
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://panicbutton.io/privacy.html</loc>
+    </url>
     
     
     

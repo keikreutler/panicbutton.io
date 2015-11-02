@@ -5,7 +5,7 @@ layout: default
 {% include nav.html %}
   <section id="header" class="content white container intcont mobnopad">
     <div class="col-xs-12 breadcrumb">
-        <a href="/">Home</a> &gt; <a href="/pact/pact.html">Training Kit</a> &gt; <span>{{page.title}}</span>
+        <a href="/">Home</a> &gt; <a href="{{ BASE_PATH }}/pact/pact.html">Training Kit</a> &gt; <span>{{page.title}}</span>
     </div>
   </section>
     <div id="wrap" class="pact">
@@ -146,7 +146,7 @@ layout: default
               {% if page.cardNum > 1 %}
               <a class="btn_prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a>
               {% endif %}
-              <a class="btn_home" href="/pact/pact.html" title="Panic Button Training Kit home">Home</a>
+              <a class="btn_home" href="{{ BASE_PATH }}/pact/pact.html" title="Panic Button Training Kit home">Home</a>
               {% if page.next %}
               <a class="btn_next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a>
               {% endif %}
